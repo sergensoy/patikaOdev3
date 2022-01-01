@@ -1,0 +1,67 @@
+:root{
+    --deepbrown-color:#5E2610;
+    --fawn-color: #963102;
+    --white: #ffffff;
+    --idk: #2C1504;
+}
+
+body{
+    background-color: #E0C9A9;
+}
+
+.border-radius{
+    border-radius: 10px;
+}
+
+.bg-fawn{
+    background-color: var(--fawn-color);
+}
+
+.d-inline{
+    display: inline;
+}
+
+.c-fawn{
+    color: var(--fawn-color);
+}
+
+.col{
+    display: inline-block;
+}
+
+.fw-b{
+    font-weight: bold;
+}
+
+.fst-italic{
+    font-style: italic;
+}
+
+.mb-2{
+    margin-bottom: 20px;
+}
+
+.ml-2{
+    margin-left: 20px;
+}
+
+.recipe{
+    width: 50%;
+    margin: auto;
+}
+
+.text-white{
+    color: var(--white);
+}
+
+.text-idk{
+    color: var(--idk);
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-underline{
+    text-decoration: underline;
+}
